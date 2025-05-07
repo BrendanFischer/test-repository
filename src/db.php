@@ -3,8 +3,8 @@
 // Load credentials from environment or hard-code for now:
 $dbHost = 'localhost';
 $dbName = 'lostfound';
-$dbUser = 'your_db_user';
-$dbPass = 'your_db_pass';
+$dbUser = 'root';
+$dbPass = 'bjfischer';
 
 try {
     // Use PDO for safe queries
